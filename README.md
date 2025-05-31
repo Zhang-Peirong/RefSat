@@ -7,6 +7,9 @@ This repository supports our paper:
 
 We present a novel dataset for **Referring Multi-Object Tracking in Satellite Videos (RMOT-SV)**, that aims to track single or multiple objects in satellite videos guided by natural language queries.
 
+
+![image](https://github.com/user-attachments/assets/38768965-eed0-4e54-8721-3b8318aaf07a)
+
 ## 📦 Dataset Download
 
 The full dataset used in our paper is available at the following link:
@@ -46,7 +49,9 @@ RefSat/
 ---
 The following table provides detailed definitions of the variables and functions used in Algorithm 1 of the paper.
 
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/dcacc719-e5bb-4d59-895e-eae32f89ac36)
+
+
 | Symbol / Function      | Type        | Description |
 |------------------------|-------------|-------------|
 | `B_t`                  | Input       | Object bounding box or mask at frame *t* |
@@ -81,4 +86,4 @@ This dataset is licensed under the **Creative Commons Attribution 4.0 Internatio
 More info: [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
 
 
-© 2025 the Aerospace Information Research Institute,  the Key Laboratory of Target Cognition and Application Technology (TCAT), Chinese Academy of Sciences, [Peirong Zhang]
+© 2025 the Aerospace Information Research Institute, the Key Laboratory of Target Cognition and Application Technology (TCAT), Chinese Academy of Sciences, Peirong Zhang
